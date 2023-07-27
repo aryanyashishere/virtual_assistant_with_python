@@ -12,6 +12,8 @@ CREDITS : WIKIPIDEA API
 
           
 It's a Basic Level AI virtual assistant which works upon the lots of task predefined by the programmer inside the code.  It uses speech recognition tool to listen and answer. 
+
+
 basic tasks can be performed with this ai tool very well like :
 
 >> SENDS PROPER EMAIL WITH SUBJECT, SENDER'S NAME, RECIPIENT_EMAILADDRESS, AND CONTENT, YOU CAN SEND EMAIL BY YOUR GMAIL EMAIL ACCOUNT TO ANY HOST'S EMAIL ADDRESS
@@ -20,7 +22,8 @@ basic tasks can be performed with this ai tool very well like :
 >> TELL YOU DAILY WEATHER FORECAST 
 >> DOWNLOAD YOUTUBE VIDEOS EASILY JUST BY GIVING COMMAND "DOWNLOAD YOUTUBE VIDEO" OR "I WANT TO DOWNLOAD YOUTUBE VIDEO".....ENTERING LINK OF THE PARTICULAR VIDEO
 >> TESLA is good in mathematics
-   algebra, pysics, chemistry, units and measures, elementary maths, surprises, festival, 
+>>
+>> algebra, pysics, chemistry, units and measures, elementary maths, surprises, festival, 
    calculates mathematical equations, example = "tesla, three thousand twenty six plus six hundred substract three thousand" 
                                       output = 3026+600-3000
                                              = 626 
